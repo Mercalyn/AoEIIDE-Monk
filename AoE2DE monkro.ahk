@@ -1,4 +1,5 @@
 SetBatchLines, -1 
+; this works for AoE II DE on a 1440p monitor
 
 ; unitx/y is the x/y dir of monk group select
 ; number after is the number group, so need to select monks by number
